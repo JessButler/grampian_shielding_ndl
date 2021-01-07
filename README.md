@@ -8,7 +8,7 @@ Questions contact JessicaButler@abdn.ac.uk
 
 ### Methods
 #### Population
-The population of shielding people used for this analysis was supplied by Nicola Beech from Health Intelligence in NHS Grampian to the Grampian Data Safe Haven on 12th October 2020. 
+The population of shielding people used for this analysis was supplied by Health Intelligence in NHS Grampian to the Grampian Data Safe Haven on 12th October 2020. 
 
 This shielding list includes all people instructed to shield who live in the NHS Grampian Region. NHS Grampian covers three local authorities: Aberdeen City, Aberdeenshire and Moray. The total population is 585,700.
 
