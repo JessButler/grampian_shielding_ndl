@@ -1,6 +1,6 @@
 # People shielding from Coronavirus in NHS Grampian
-Work for NHS Grampian to understand people shielding (supported by the Health Foundation's Networked Data Lab and Scotland's Chief Scientist's Office)
-Questions contact JessicaButler@abdn.ac.uk
+This is analysis for NHS Grampian to understand people shielding (supported by the Health Foundation's Networked Data Lab and Scotland's Chief Scientist's Office).  
+Questions please contact JessicaButler@abdn.ac.uk
 
 ## Demographics of patients shielding from COVID in Grampian
 
