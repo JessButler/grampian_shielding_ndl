@@ -1,5 +1,6 @@
 # People shielding from Coronavirus in NHS Grampian
-This is analysis for NHS Grampian to understand people shielding (supported by the Health Foundation's Networked Data Lab and Scotland's Chief Scientist's Office).  
+This is analysis for NHS Grampian to understand those who were asked to isolate due to their vulnerability to severe illness due to Coronavirus.  
+This work is supported by the Health Foundation's Networked Data Lab and Scotland's Chief Scientist's Office.  
 Questions please contact JessicaButler@abdn.ac.uk
 
 ## Demographics of patients shielding from COVID in Grampian
