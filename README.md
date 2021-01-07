@@ -22,7 +22,7 @@ Searches could be carried out by GPs and hospital consultants using any of the d
 
 #### Population Exclusions
 For this analysis, people on the original shielding list were excluded from the study population for the following reasons:
-Incorrectly put on the shielding list (primarily due to a batch that included false positive lung cancer results), moved from Scotland, died before shielding began on 26th March 2020, added to the shielding list after 31st July 2020
+Incorrectly put on the shielding list (primarily due to a batch that included false positive lung cancer results), moved from Scotland, died before shielding began on 26th March 2020, added to the shielding list after 31st July 2020.
 
 #### Reasons to shield
 The list of reasons for shielding and how they were determined in the national searches are given in the methods document linked above. People could have multiple reasons to shield. For patients added locally, the reasons to shield was stated by the GP or consultant rather than derived from the patients’ electronic health care record.
@@ -40,7 +40,7 @@ Measures of patients’ home area deprivation were taken from the Scottish Gover
 The measure of urbanity of the patients’ home area was taken from the Scottish Government’s Urban Rural Classification 2016. https://www.gov.scot/publications/scottish-government-urban-rural-classification-2016/pages/2/
 
 #### Disclosure Control
-For the interactions of shielding reason + age and shielding reason + deprivation, people in the shielding category of “pregnant with a heart condition” have been combined with the “other” category due to small numbers.
+These summary data have been released to the public by the Grampian Data Safe Haven. No data for individuals are provided. Due small numbers, for the descriptions of shielding reason + age and shielding reason + deprivation, people in the category of “pregnant with a heart condition” have been combined with the “other” category.
 
 #### Analytic Code
 The R code used to generate the tables is given in the RMarkdown document “code_demographics.Rmd”.
