@@ -4,7 +4,7 @@ Questions contact JessicaButler@abdn.ac.uk
 
 ## Demographics of patients shielding from COVID in Grampian
 
-**See "shielding_demographics.xlsx" here for a description of the age, sex, reasons for shielding, and characteristics of home (urban/rural and Scottish Index of Multiple Deprivation) of people shielding from Coronavirus in NHS Grampian.** 
+**Download "shielding_demographics.xlsx" here for a description of the age, sex, reasons for shielding, and characteristics of home (urban/rural and Scottish Index of Multiple Deprivation) of people shielding from Coronavirus in NHS Grampian.** 
 
 ### Methods
 #### Population
